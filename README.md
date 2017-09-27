@@ -8,6 +8,13 @@ Link as Reference Research Tool
 * Let the user have spaces between the links for group differentiation.
 * Produce a CSV file displaying the name of the file, address list, and comments.
 
+*Files to download with code*:
+---
+*Kala.icon (Images file)
+
+*originalFile (Files file)
+
+
 *Interface*
 ----
 
