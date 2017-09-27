@@ -10,13 +10,16 @@ Link as Reference Research Tool
 
 *Files to download with code*:
 ---
-*Kala.icon (Images file)
 
-*originalFile (Files file)
+* Kala.icon (Images file)
+
+* originalFile (Files file)
+
+---
 
 
 *Interface*
-----
+---
 
 
 ![](Images/Interface.PNG)
