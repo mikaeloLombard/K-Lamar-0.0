@@ -6,7 +6,18 @@ Link as Reference Research Tool
 * Let the user paste the link into the GUI entry and submit it.
 * Let the user type comments about the link being submitted.
 * Let the user have spaces between the links for group differentiation.
-* Produce a CSV file with the list.
+* Produce a CSV file displaying the name of the file, address list, and comments.
+
+*Interface*
+----
 
 
-![](Images/Interface.jpg)
+![](Images/Interface.PNG)
+
+
+**Bugs:**
+
+Reset button is currently on development.
+
+
+
