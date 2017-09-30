@@ -13,6 +13,8 @@ Link as Reference Research Tool
 
 * Kala.icon (Images file)
 
+* bg1.gif (Images file)
+
 * originalFile (Files file)
 
 ---
