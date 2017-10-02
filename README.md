@@ -28,6 +28,8 @@ Link as Reference Research Tool
 ![](Images/Interface1.PNG)
 
 *Collaborators:*
+* Mallory Milstead
+
 --
 
 
