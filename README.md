@@ -27,7 +27,7 @@ Link as Reference Research Tool
 
 ![](Images/Interface.PNG)
 
-*Collaborators:*
+*Contributors:*
 * Mallory Milstead
 
 --
