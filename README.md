@@ -36,7 +36,7 @@ Link as Reference Research Tool
 
 **Bugs:**
 
-Reset button is currently on development.
+If the "/" symbol is entered in the title entry an error message is displayed.(We have the fix)
 
 ## License
 K-lamar is released under the MIT License 
