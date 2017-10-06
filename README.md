@@ -36,7 +36,7 @@ Link as Reference Research Tool
 
 **Bugs:**
 
-If the "/" symbol is entered in the title entry, an error message is displayed.(We have the fix)
+When the "/" character is typed in title entry box, an error message is displayed.(We have the fix)
 
 ## License
 K-lamar is released under the MIT License 
